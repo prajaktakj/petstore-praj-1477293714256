@@ -37,6 +37,11 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<resources>
+		<resource>
+		<directory>src/main/java/net/sample</directory>
+		</resource>
+		</resources>
 	</build>
 
 </project>
