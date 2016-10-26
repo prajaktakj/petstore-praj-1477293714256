@@ -3,7 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: petstore-praj
-  host: petstore-praj
+  name: JPetStore
+  host: JPetStore
   disk_quota: 1024M
   buildpack: java_buildpack

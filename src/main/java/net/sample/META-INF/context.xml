@@ -1,1 +1,2 @@
-<Context docBase="JPetStore" path="/JPetStore" reloadable="true"/>
+<Context docBase="JPetStore" path="/JPetStore" reloadable="true">
+</Context>
